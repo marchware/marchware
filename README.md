@@ -31,8 +31,5 @@
 
 ---
 
-### 📊 GitHub Stats:
-![Marchelino's GitHub stats](https://github-readme-stats.vercel.app/api?username=marchware&show_icons=true&theme=tokyonight)
-
 ### 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=marchware&theme=tokyonight)
